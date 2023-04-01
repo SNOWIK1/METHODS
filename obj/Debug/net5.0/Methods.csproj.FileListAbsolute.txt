@@ -1,0 +1,16 @@
+C:\Users\user.COMP-02\source\repos\Methods\obj\Debug\net5.0\Methods.csproj.AssemblyReference.cache
+C:\Users\user.COMP-02\source\repos\Methods\obj\Debug\net5.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user.COMP-02\source\repos\Methods\obj\Debug\net5.0\Methods.AssemblyInfoInputs.cache
+C:\Users\user.COMP-02\source\repos\Methods\obj\Debug\net5.0\Methods.AssemblyInfo.cs
+C:\Users\user.COMP-02\source\repos\Methods\obj\Debug\net5.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\user.COMP-02\source\repos\Methods\bin\Debug\net5.0\Methods.exe
+C:\Users\user.COMP-02\source\repos\Methods\bin\Debug\net5.0\Methods.deps.json
+C:\Users\user.COMP-02\source\repos\Methods\bin\Debug\net5.0\Methods.runtimeconfig.json
+C:\Users\user.COMP-02\source\repos\Methods\bin\Debug\net5.0\Methods.runtimeconfig.dev.json
+C:\Users\user.COMP-02\source\repos\Methods\bin\Debug\net5.0\Methods.dll
+C:\Users\user.COMP-02\source\repos\Methods\bin\Debug\net5.0\ref\Methods.dll
+C:\Users\user.COMP-02\source\repos\Methods\bin\Debug\net5.0\Methods.pdb
+C:\Users\user.COMP-02\source\repos\Methods\obj\Debug\net5.0\Methods.dll
+C:\Users\user.COMP-02\source\repos\Methods\obj\Debug\net5.0\ref\Methods.dll
+C:\Users\user.COMP-02\source\repos\Methods\obj\Debug\net5.0\Methods.pdb
+C:\Users\user.COMP-02\source\repos\Methods\obj\Debug\net5.0\Methods.genruntimeconfig.cache
